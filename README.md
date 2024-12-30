@@ -2,5 +2,4 @@ A language detector app that runs from the terminal. This uses the franc node pa
 
 To use it in the terminal run:
 
-_node index.js '[enter text here to detect]'
-_
+node index.js '[enter text here to detect]'
